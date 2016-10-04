@@ -1,18 +1,5 @@
 # C64_Very_Basic_4
 
-# Program_1
+The ACMEAssembler.d64 contains the examples from C64_Very_Basic_4 
 
-10 REM FORMATTING A DISK
-20 OPEN15,8,15
-30 PRINT#15,N:A$,B$
-40 CLOSE15
-
-
-# Program_2
-
-10 OPEN1,8,15,"S0:FORMAT DISK":CLOSE1
-
-# Program_3
-
-10 REM INITIALIZE DISK
-20 OPEN1,8,15,"I":CLOSE1
+Excuse the name for now
