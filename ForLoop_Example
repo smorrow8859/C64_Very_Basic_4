@@ -1,4 +1,4 @@
-# Program_1
+# For Example 1
 
 5 ?CHR$(147)
 10 FORI=0TO15
@@ -6,7 +6,7 @@
 30 NEXT
 40 END
 
-# Program_2
+# For Example 2
 
 5 ?CHR$(147)
 10 FORI=15TO0STEP-1
@@ -14,7 +14,7 @@
 30 NEXT
 40 END
 
-# Program_3
+# For Example 3
 
 5 ?CHR$(147)
 10 FORI=0TO15STEP2
@@ -22,7 +22,7 @@
 30 NEXT
 40 END
 
-# Program_4
+# For Example 4
 
 5 ?CHR$(147)
 10 FORI=0TO15STEP5
@@ -30,7 +30,7 @@
 30 NEXT
 40 END
 
-# Program_5
+# For Example 5
 
 5 ?CHR$(147)
 10 FORI=30TO0STEP-5
@@ -38,7 +38,7 @@
 30 NEXT
 40 END
 
-# Program_6
+# For Example 6
 
 5 ?CHR$(147)
 8 INPUTV
@@ -46,7 +46,7 @@
 20 ?"COMMODORE 64 IS AWESOME!",I
 30 NEXT
 
-# Program_7
+# For Example 7
 
 5 PRINTCHR$(147)
 8 INPUTV,NM$
